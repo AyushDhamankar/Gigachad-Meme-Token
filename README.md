@@ -1,3 +1,7 @@
+# How the Gigachad Meme Token Works
+
+https://github.com/AyushDhamankar/Gigachad-Meme-Token/assets/139478319/fa66a548-b8bb-40b2-992b-00686bd50d19
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
